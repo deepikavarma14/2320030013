@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module ImageViewerAdapterPattern_PRACTICAL {
+}
