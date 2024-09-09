@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module gamingProject_PRACTICAL {
-}
